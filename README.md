@@ -1,4 +1,4 @@
-# Final_Project
+# Video Editor
 
 -----
 ## Instructions
