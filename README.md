@@ -3,8 +3,10 @@
 -----
 ## Instructions
 ***It is a simple video editor which can concatenate many videos in one video.***
+-----
 ***Also it can change filters***
-***And main thing is it can add watermarks or logos***
+-----
+***And main thing is, it can add watermarks or logos***
 -------
 
 
